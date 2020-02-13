@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooxieweemo.escapingsloth.com/sitemap.xml
